@@ -8,11 +8,11 @@
 
 To run the server in dev mode, you first need to compile the zig code with:
 ```
-npm run compile
+bun run compile
 ```
 then you can start the server with:
 ```
-npm run dev
+bun run dev
 ```
 
 Test the server with:
